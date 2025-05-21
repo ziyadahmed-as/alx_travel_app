@@ -1,3 +1,16 @@
 .env
 .manage.py
-.alx_travel_app/settings.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+*.pot
+*.po
+*.mo
+*.pot~
+*.potc
+*.pot~
