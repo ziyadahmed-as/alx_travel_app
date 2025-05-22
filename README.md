@@ -1,7 +1,7 @@
 # Ovier views of ALX Travel App 
 A scalable and modular Django-based web application for managing travel related listings. Built with RESTful APIs, Swagger documentation, and support for background task processing using Celery and RabbitMQ.
 
-## 🚀 The Features Included to this projects 
+# The Features Included to this projects 
 
 - Modular Django architecture
 - REST API with Django REST Framework
