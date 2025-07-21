@@ -1,0 +1,16 @@
+.env
+.manage.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+travel/
+*.pot
+*.po
+*.mo
+*.pot~
+*.potc
+*.pot~
